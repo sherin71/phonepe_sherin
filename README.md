@@ -3,7 +3,14 @@
 # 📌Data Visualization and Exploration : ✨A User-Friendly Tool Using Streamlit and Plotly
 
 ### Industry Focus : 💻💰Online Banking
-### Tech Stack : 🐍Python, Pandas, 🗃️MySQL, 🚀Streamlit, 📊Plotly &💡more
+## Tech Stack
+
+- Python
+- Pandas
+- MySQL
+- Streamlit
+- Plotly
+- and more
 ### Overview : Explore PhonePe Pulse data and gain insights with interactive visualizations.
 ## About PhonePe Pulse 🎇:
 PhonePe Pulse, launched on September 3, 2021, is India's first interactive website offering data, insights, and trends on digital payments. It showcases over 2000 Crore transactions on an interactive map of India. With a market share of over 45%, PhonePe's data reflects the digital payment habits of the nation.
