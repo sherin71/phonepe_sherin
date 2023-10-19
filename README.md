@@ -4,7 +4,6 @@
 
 ### Industry Focus : 💻💰Online Banking
 ## Tech Stack
-
 - Python
 - Pandas
 - MySQL
