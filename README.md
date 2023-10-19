@@ -2,7 +2,8 @@
 
 # 📌Data Visualization and Exploration : ✨A User-Friendly Tool Using Streamlit and Plotly
 
-### Industry Focus : 💻💰Online Banking
+## Industry Focus
+💻📊 Online Banking
 ## Tech Stack
 - Python
 - Pandas
