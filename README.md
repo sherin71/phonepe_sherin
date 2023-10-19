@@ -3,3 +3,5 @@
 # 📌Data Visualization and Exploration : ✨A User-Friendly Tool Using Streamlit and Plotly
 
 ## Industry Focus : 💻💰Online Banking
+## Tech Stack : 🐍Python, Pandas, 🗃️MySQL, 🚀Streamlit, 📊Plotly &💡more
+## Overview : Explore PhonePe Pulse data and gain insights with interactive visualizations.
